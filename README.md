@@ -11,3 +11,5 @@ Poisson PINN: Jan Blechschmidt under https://github.com/janblechschmidt/PDEsByNN
  GMRES-based ACGD: https://github.com/devzhk/
  (Pytorch)(MIT license)<br>
  Notebooks were running on kaggle (https://www.kaggle.com)
+
+ Caution, there is a silent error in the Adaptation of Raissis Shroedinger PINN causing test errors of ~0.9.
